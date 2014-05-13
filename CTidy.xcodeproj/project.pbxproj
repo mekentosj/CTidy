@@ -61,7 +61,7 @@
 		5445E239159324E600A3137D /* version.h in Headers */ = {isa = PBXBuildFile; fileRef = 5445E205159324E600A3137D /* version.h */; };
 		5445E23A159324E600A3137D /* win32tc.c in Sources */ = {isa = PBXBuildFile; fileRef = 5445E206159324E600A3137D /* win32tc.c */; };
 		5445E23B159324E600A3137D /* win32tc.h in Headers */ = {isa = PBXBuildFile; fileRef = 5445E207159324E600A3137D /* win32tc.h */; };
-		5445E23D1593250100A3137D /* CTidy.h in Headers */ = {isa = PBXBuildFile; fileRef = 5445E1C31593248B00A3137D /* CTidy.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5445E23D1593250100A3137D /* CTidy.h in Headers */ = {isa = PBXBuildFile; fileRef = 5445E1C31593248B00A3137D /* CTidy.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
